@@ -9,7 +9,7 @@ Projeto para Criação de Imagens com tecnologias focado no uso da FT Networks p
 Especificações do Container
 ---------------------------
 
-* Tag **ft:wordpress**: Imagem de Container com Wordpress para utilização em Docker, Kubernetes e afins.
+* Tag `ft:wordpress`: Imagem de Container com Wordpress para utilização em Docker, Kubernetes e afins.
 	- **Imagem Base**: php-alpine
 	- **Web Server**: apache2
 	- **PHP**: php7
@@ -34,4 +34,4 @@ Docker Hub
 Créditos
 --------
 
-Projeto baseado na instalação do [Wordpress para Alpine](https://wiki.alpinelinux.org/wiki/WordPress)
+Tag `ft:wordpress` foi baseada na instalação do [Wordpress para Alpine](https://wiki.alpinelinux.org/wiki/WordPress)
