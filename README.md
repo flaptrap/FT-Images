@@ -1,5 +1,5 @@
-FT Wordpress
-============
+FT Images
+=========
 
 Objetivo
 --------
