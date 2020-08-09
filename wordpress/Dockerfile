@@ -31,8 +31,6 @@ RUN { echo 'opcache.memory_consumption=128'; echo 'opcache.interned_strings_buff
 
 COPY wp-config.php /var/www/localhost/htdocs/
 
-VOLUME /var/www/localhost/htdocs/wp-content/themes/
-
 EXPOSE 80
 
 ENTRYPOINT ["httpd","-D","FOREGROUND"]
