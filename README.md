@@ -19,7 +19,7 @@ Especificações do Container
 Docker Hub
 ----------
 
-* [`Docker Hub - Dexter Intranet`](https://hub.docker.com/r/flaptrap/ft)
+* [`Docker Hub - flaptrap/ft`](https://hub.docker.com/r/flaptrap/ft)
 
 ### Como Usar:
 * Start Container
